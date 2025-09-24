@@ -1,0 +1,12 @@
+GCC = gcc
+MODULO = modulo
+PROGRAMAS = labRendiaguirre_O
+RM = rm -f
+
+labRendiaguirre_O: $(PROGRAMAS).c $(MODULO).c modulo.h
+	$(GCC) $(MODULO).c -c
+	$(GCC) $@.c $(MODULO).o -o $@
+
+clear:
+	$(RM) $(PROGRAMAS) $(MODULO).o
+
