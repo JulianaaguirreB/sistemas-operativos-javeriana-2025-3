@@ -1,0 +1,5 @@
+READ ME
+Taller 02 
+consiste en un programa que trabaja con varios archivos para leer datos, hacer sumas y usar procesos al mismo tiempo. El programa principal (main.c) lee dos archivos con números, crea procesos hijos y un nieto con fork(), y todos calculan diferentes sumas: una para el primer archivo, otra para el segundo y una suma total de ambos. Los resultados se envían al proceso principal usando un pipe, que sirve como canal de comunicación.
+
+Los archivos lectura.c y suma.c se encargan de leer los números y hacer las operaciones, mientras que lectura.h y suma.h definen las funciones que usan esos programas. El Makefile permite compilar y ejecutar todo el proyecto fácilmente. Las pruebas mostraron que el sistema lee bien los datos, calcula las sumas correctas y comunica los resultados sin errores.
