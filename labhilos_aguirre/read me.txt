@@ -1,0 +1,15 @@
+# Laboratorios en C – Sistemas Operativos  
+
+Este repositorio contiene nueve programas en C (lab1_aguirre.c … lab9_aguirre.c) desarrollados como parte de los laboratorios del curso de Sistemas Operativos en la Pontificia Universidad Javeriana.  
+Cada laboratorio aborda conceptos fundamentales del manejo de procesos, hilos, sincronización, memoria compartida y condiciones de carrera.
+
+Estructura del proyecto  
+
+- lab1_aguirre.c … lab9_aguirre.c → Código fuente de cada laboratorio.  
+- Makefile → Archivo para compilar automáticamente todos los programas y limpiar los ejecutables.  
+- README → Documento descriptivo general del proyecto.  
+
+Uso del Makefile  
+
+- Compilar todos los laboratorios:
+  make
