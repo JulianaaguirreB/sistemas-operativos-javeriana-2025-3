@@ -1,0 +1,38 @@
+# Resultados de rendimiento
+# Programa: bin/mmClasicaPosix
+# Tamaño matriz: 100 x 100
+# Número de hilos: 4
+# Repeticiones: 30
+# Tiempo en microsegundos
+#
+# Iteracion	Tiempo(us)
+1	1049
+2	1098
+3	1583
+4	1059
+5	655
+6	799
+7	567
+8	573
+9	927
+10	612
+11	558
+12	630
+13	725
+14	1194
+15	1017
+16	670
+17	727
+18	536
+19	534
+20	537
+21	606
+22	536
+23	566
+24	530
+25	584
+26	947
+27	1004
+28	1202
+29	1257
+30	1289

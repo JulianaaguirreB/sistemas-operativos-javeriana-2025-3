@@ -1,0 +1,38 @@
+# Resultados de rendimiento
+# Programa: bin/mmClasicaFork
+# Tamaño matriz: 100 x 100
+# Número de hilos: 4
+# Repeticiones: 30
+# Tiempo en microsegundos
+#
+# Iteracion	Tiempo(us)
+1	1722
+2	1117
+3	1136
+4	1663
+5	2290
+6	1122
+7	2120
+8	1099
+9	1085
+10	1110
+11	1124
+12	2490
+13	951
+14	1316
+15	3315
+16	1758
+17	1300
+18	2153
+19	1385
+20	1489
+21	1287
+22	1101
+23	1042
+24	1025
+25	1023
+26	1047
+27	1270
+28	1016
+29	1100
+30	1196

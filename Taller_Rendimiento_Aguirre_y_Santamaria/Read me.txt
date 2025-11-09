@@ -1,0 +1,13 @@
+Taller de Evaluación de Rendimiento – Sistemas Operativos
+
+Este proyecto forma parte del curso Sistemas Operativos de la Pontificia Universidad Javeriana, y tiene como objetivo analizar el comportamiento y la eficiencia de diferentes enfoques de paralelismo en C sobre Linux, aplicados al problema clásico de multiplicación de matrices cuadradas.
+Se comparan implementaciones secuenciales y paralelas usando distintos modelos de concurrencia:
+
+-OpenMP
+-OpenMP con matriz transpuesta 
+-POSIX Threads 
+-Procesos Fork
+-Versión Serie
+
+El proyecto incluye automatización completa para compilación, ejecución y análisis de rendimiento, además de gráficas de tiempo, speedup y eficiencia.
+

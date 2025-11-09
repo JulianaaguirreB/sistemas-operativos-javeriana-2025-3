@@ -1,0 +1,38 @@
+# Resultados de rendimiento
+# Programa: bin/mmClasicaOpenMP
+# Tamaño matriz: 500 x 500
+# Número de hilos: 4
+# Repeticiones: 30
+# Tiempo en microsegundos
+#
+# Iteracion	Tiempo(us)
+1	52587
+2	53256
+3	53442
+4	51836
+5	48386
+6	55054
+7	48875
+8	48099
+9	51778
+10	56874
+11	56660
+12	49013
+13	54517
+14	53022
+15	53196
+16	46507
+17	51794
+18	50769
+19	52379
+20	51460
+21	52792
+22	46508
+23	46768
+24	53664
+25	58487
+26	52290
+27	49046
+28	52031
+29	49048
+30	56421

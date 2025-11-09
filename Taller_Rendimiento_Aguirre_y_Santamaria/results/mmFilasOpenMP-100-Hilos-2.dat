@@ -1,0 +1,38 @@
+# Resultados de rendimiento
+# Programa: bin/mmFilasOpenMP
+# Tamaño matriz: 100 x 100
+# Número de hilos: 2
+# Repeticiones: 30
+# Tiempo en microsegundos
+#
+# Iteracion	Tiempo(us)
+1	683
+2	2311
+3	730
+4	829
+5	583
+6	913
+7	555
+8	809
+9	690
+10	557
+11	736
+12	1140
+13	1628
+14	626
+15	1697
+16	1668
+17	816
+18	1371
+19	613
+20	563
+21	589
+22	546
+23	779
+24	927
+25	1294
+26	562
+27	642
+28	879
+29	838
+30	782

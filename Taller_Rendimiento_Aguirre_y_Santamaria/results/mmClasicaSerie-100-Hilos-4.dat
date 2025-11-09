@@ -1,0 +1,38 @@
+# Resultados de rendimiento
+# Programa: bin/mmClasicaSerie
+# Tamaño matriz: 100 x 100
+# Número de hilos: 4
+# Repeticiones: 30
+# Tiempo en microsegundos
+#
+# Iteracion	Tiempo(us)
+1	988
+2	994
+3	1015
+4	1219
+5	968
+6	974
+7	981
+8	1013
+9	974
+10	1064
+11	971
+12	968
+13	990
+14	2172
+15	965
+16	967
+17	1332
+18	986
+19	967
+20	1724
+21	996
+22	991
+23	985
+24	1006
+25	992
+26	1000
+27	1590
+28	1541
+29	963
+30	964

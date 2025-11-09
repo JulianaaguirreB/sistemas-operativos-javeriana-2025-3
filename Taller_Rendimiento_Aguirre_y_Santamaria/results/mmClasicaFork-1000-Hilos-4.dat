@@ -1,0 +1,22 @@
+# Resultados de rendimiento
+# Programa: bin/mmClasicaFork
+# Tamaño matriz: 1000 x 1000
+# Número de hilos: 4
+# Repeticiones: 30
+# Tiempo en microsegundos
+#
+# Iteracion	Tiempo(us)
+1	692706
+2	678107
+3	777761
+4	817268
+5	790629
+6	752471
+7	799726
+8	864731
+9	769574
+10	876452
+11	861551
+12	845945
+13	475804
+14	429002

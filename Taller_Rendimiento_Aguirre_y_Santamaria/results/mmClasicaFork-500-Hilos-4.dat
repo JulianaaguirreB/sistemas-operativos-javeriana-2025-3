@@ -1,0 +1,38 @@
+# Resultados de rendimiento
+# Programa: bin/mmClasicaFork
+# Tamaño matriz: 500 x 500
+# Número de hilos: 4
+# Repeticiones: 30
+# Tiempo en microsegundos
+#
+# Iteracion	Tiempo(us)
+1	71812
+2	71868
+3	78214
+4	64648
+5	70161
+6	69046
+7	76475
+8	70581
+9	73159
+10	73822
+11	74186
+12	74792
+13	74922
+14	74005
+15	74639
+16	71452
+17	79760
+18	78215
+19	87719
+20	94748
+21	87217
+22	102863
+23	83731
+24	74414
+25	76480
+26	90482
+27	95857
+28	88830
+29	73019
+30	81810
