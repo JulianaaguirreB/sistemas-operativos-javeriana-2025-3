@@ -1,0 +1,23 @@
+Laboratorio OpenMP – Sistemas Operativos
+
+Este proyecto forma parte del curso Sistemas Operativos de la Pontificia Universidad Javeriana, y tiene como objetivo introducir el uso de la librería OpenMP.
+
+A través de una serie de programas independientes, se estudian y aplican diferentes directivas y cláusulas de OpenMP para comprender la creación, control y sincronización de hilos dentro de una región paralela.
+
+Contenido del laboratorio
+
+El laboratorio está compuesto por seis programas principales, cada uno enfocado en una funcionalidad específica de OpenMP:
+
+- Lab01 – Detección del número máximo de hilos disponibles y ejecución de una región paralela simple.  
+- Lab02 – Fijación manual del número de hilos mediante omp_set_num_threads().  
+- Lab03– Uso de las cláusulas private y reduction para controlar el alcance de variables en un bucle paralelo.  
+- Lab04 – Aplicación de la cláusula private sobre múltiples variables dentro de un bucle paralelo.  
+- Lab05 – Cálculo de la sumatoria de la función seno utilizando paralelismo con reducción y medición de tiempo.  
+- Lab06– Versión extendida del cálculo de sumatoria del seno con medición precisa del tiempo en microsegundos.
+
+Automatización de compilación
+
+El proyecto incluye un Makefile que automatiza la compilación de todos los programas.  
+Cada laboratorio puede compilarse de forma individual con el comando:
+
+
